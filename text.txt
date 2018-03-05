@@ -1,0 +1,7 @@
+6
+Stefan	Burczymucha	100888
+Janek	Kowalsky	146321
+Ann	Jackson	159853
+Anna	Kowalska	123145
+Adam	Nowak	100935
+Jan	Kowalski	123456
